@@ -1,0 +1,7 @@
+[package]
+name = "repro"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+rquickjs-sys = { git = "https://github.com/DelSkayn/rquickjs.git", rev = "6a606077abd476c3b4a6095988adf4572d9fcfba" }
